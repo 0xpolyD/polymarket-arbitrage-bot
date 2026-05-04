@@ -1,0 +1,13 @@
+# Local env (do not commit secrets)
+.env
+
+# Python caches
+__pycache__/
+*.pyc
+
+# IDE configs
+.vscode/
+.idea/
+
+# Auto claimer (excluded from repo)
+auto_claimer/
